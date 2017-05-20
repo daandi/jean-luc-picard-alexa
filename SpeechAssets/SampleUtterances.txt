@@ -1,3 +1,14 @@
-CitationIntent nach Zitat
-CitationIntent Zitat
-CitationIntent Spruch
+CitationIntent nach zitat
+CitationIntent zitat
+CitationIntent zitate
+CitationIntent nach spruch
+CitationIntent spruch
+CitationIntent sprüche
+CitationIntent nach ausspruch
+CitationIntent ausspruch
+CitationIntent neues zitat
+CitationIntent nach neuem zitat
+CitationIntent gib mir ein picard zitat
+CitationIntent neues zitat
+CitationIntent weiteres zitat
+CitationIntent mehr zitate

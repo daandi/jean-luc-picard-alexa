@@ -11,7 +11,6 @@ const answers = {
     CITATIONS: [
         "Ein Name muss in allen Geschichtsbüchern stehen. Der Name: Enterprise!",
         "Wissen Sie, als ich ein Schuljunge war, habe ich einige Worte gehört: Mit dem ersten Glied ist die Kette geschmiedet. Wenn die erste Rede zensiert, der erste Gedanke verboten, die erste Freiheit verweigert wird, sind wir alle unwiderruflich gefesselt",
-        "Nachdem Offenhouse seine Überzeugung kundgetan hat, dass die Kanzlei seines Anwaltes noch existieren müsse",
         "Sie haben noch gar nichts begriffen. In den letzten drei Jahrhunderten hat sich unglaublich viel verändert. Es ist für die Menschen nicht länger wichtig, große Reichtümer zu besitzen. Wir haben den Hunger eliminiert, die Not, die Notwendigkeit, reich zu sein. Die Menschheit ist erwachsen geworden.",
         "Merde!",
         "Wieviele Menschen sind nötig, Admiral, bis aus Recht Unrecht wird?",
