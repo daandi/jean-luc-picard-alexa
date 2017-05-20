@@ -1,2 +1,2 @@
-# jean-luc-picard-alexa
-Jean-Luc Picard Zitate
+# Jean-Luc Picard Zitate
+Jean-Luc Picard Zitate für Alexa

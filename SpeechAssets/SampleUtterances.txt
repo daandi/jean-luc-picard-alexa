@@ -1,0 +1,3 @@
+CitationIntent nach Zitat
+CitationIntent Zitat
+CitationIntent Spruch
